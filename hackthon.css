@@ -1,0 +1,31 @@
+#navbar{
+    background-color:blueviolet;
+    border: 2px solid rgb(137, 12, 12);
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    font-size: 25px;
+}
+input{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.163);
+    color: black;
+    
+}
+#qouted{
+    display: grid;
+
+}
+a{
+    color: black;
+    margin-left: 100px;
+    text-decoration: none;
+
+}
+button{
+    background-color: rgb(126,126,126);
+    color:white ;
+}
+#content{
+    display: inline-block;
+}
